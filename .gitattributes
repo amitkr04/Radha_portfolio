@@ -1,0 +1,11 @@
+# Handle text files with LF endings
+*.js text eol=lf
+*.jsx text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+
+# Treat binary files (like images) as-is
+*.jpg binary
+*.png binary
