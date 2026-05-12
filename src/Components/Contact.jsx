@@ -40,7 +40,7 @@ const CONTACT_INFO = [
   {
     icon: "📧",
     label: "Email",
-    value: "yourname@email.com",
+    value: "eramitofficial25@gmail.com",
     iconBg: "bg-blue-100 dark:bg-blue-900/40",
     border: "border-blue-200 dark:border-blue-800/40",
     color: "from-blue-50 to-sky-50 dark:from-blue-950/30 dark:to-sky-950/20",
